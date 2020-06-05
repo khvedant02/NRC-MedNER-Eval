@@ -1,0 +1,10 @@
+seqeval[gpu]==0.0.12
+spacy==2.2.4
+torch==1.5.0+cu101
+transformers==2.11.0
+numpy
+pandas
+nltk
+math
+pickle
+tqdm
